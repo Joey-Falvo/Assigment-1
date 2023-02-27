@@ -110,26 +110,43 @@ Here are some of the reasons why Canadian traders choose to invest in crypto thr
 
 ## Bitbuy exchange’s key features
 Bitbuy may be an established platform in Canada, but it only offers three types of services:
+
 •	Cryptocurrency brokerage:
+
 •	Professional trading;
+
 •	Asset custody.
+
 The three services are offered through the following features:
+
 1. Express trade
 Bitbuy enables its users to buy and sell any of the supported cryptocurrencies directly to and from the platform without having to interact with the sophisticated pro trading interface.
+
 2. Pro trade
 Advanced cryptocurrency traders will gravitate towards the Pro trade service, which has most of the bells and whistles needed to carry out effective trading activities. Some of these features include:
+
 •	Trading charts powered by Tradingview;
+
 •	OHLC graphs;
+
 •	Order books;
+
 •	Depth charts;
+
 •	Multiple order types such as limit and market order;
-•	Market trade histories; etc.
+
+•	Market trade histories; etc
+.
 The biggest advantage to using the Pro trade feature is that traders have more control over the price at which they enter or exit their positions and how much they pay for the trades. Additionally, traders can save on trading fees as the Pro trade feature is much cheaper than the Express trade.
+
 3. Private Wealth
+
 Bitbuy’s Private Wealth feature facilitates high-volume trades for retail and institutional investors. The platform is used to broker direct trades between the buyers and sellers without listing them on its order book. Previously referred to as the OTC desk, this feature helps prevent price slippage since large orders can affect the market price of an asset if listed on the open marketplace.
 There is also a minimum trade value of CAD 25,000 on the Private Wealth desk, meaning that the service is specifically designed to facilitate large orders. 
 Finally, the biggest advantage of using this service is that it gives the buyers and sellers more control over their buying or selling price, and it saves time since the platform matches the counterparties according to their needs.
+
 4. Corporate accounts
+
 Bitbuy enables its corporate customers to keep Bitcoin within their balance sheets by buying and holding the asset within their hosted wallet. To entice its prospective institutional clients, the exchange has invested heavily in its infrastructure and partnerships, including using BitGo as its custody provider for corporate accounts.
 The platform also makes it easy for these institutional clients to sign up for the service and verify their identities. The process is customized to each corporate client, and therefore businesses do not share a common signup process with retail investors.
 One of the main considerations for an astute crypto investor when choosing a trading platform is the fees they will incur when opening and closing positions, as well as making withdrawals because it directly affects their profitability and Bitbuy’s trading fees are very competitive.
@@ -137,33 +154,46 @@ The exchange uses a maker-taker pricing model within its Pro trading platform, w
 Makers are parties that introduce liquidity to the marketplace while takers perform opposite actions. If you place a limit order to either buy or sell an asset, you are considered a maker, but if you execute a market order, then you are a taker.
 Note: Express trades will be charged a flat rate of 0.5% across all markets, regardless of trade direction (buying or selling).
 Fiat deposits and withdrawals also attract processing fees which vary depending on the amount transacted and the payment method used.
+
 There are two payment channels:
+
 •	Interac e-Transfer;
+
 •	Bank wire transfers.
+
 The former is ideal for transacting relatively small amounts (less than CAD 20,000), while the latter is appropriate for higher amounts. The platform charges a 1.5% commission fee on e-transfers for withdrawing and depositing money into and out of an account.
 With the bank wire transfer, it is cheaper to deposit funds into Bitbuy than it is to withdraw at 0.5% and 1%, respectively.
 
 ## Is Bitbuy Safe?
+
 Bitbuy maintains a solid security record since its launch in 2016. So far, the platform has not reported any major security incident, which has become a testament to its focus on providing secure crypto brokerage, trading, and wallet services.
 Below are some of the measures it has taken on the security front:
+
 •	Full regulation – the Ontario-based Bitbuy exchange fully complies with Canadian law, including KYC (know your customer) and AML (anti-money laundering) regulations. The platform is also fully registered to operate as a crypto asset marketplace and is registered with the FINTRAC as a money services business (MSB);
+
 •	Custody – Bitbuy allows its customers to store their assets on the platform and the exchange stores 95% of all customer funds in cold storage with multi-factor authentication. Additionally, institutional funds are held with a third party called BitGo for added security;
+
 •	Network security – online web servers are held with reputable service providers compliant with ISO, SOC, and FIPS 140-2 standards;
+
 •	Regular audits – Bitbuy has commissioned independent partners to conduct frequent security and financial audits to ensure that all systems are up to date and all suspicious transactions are reviewed objectively;
-•	Reputation – Bitbuy not only maintains a stellar security record owing to its relatively long stay in the marketplace but also inherits its reputation from its parent companies. First Ledger Corp. is a federally regulated entity, while WonderFi is a publicly-listed tech company on the NEO exchange. Notably on the Bitbuy strategic partners list are legendary Shark Tank investor Kevin O’Leary and FTX co-founder and CEO Sam Bankman-Fried.
+
+•	Reputation – Bitbuy not only maintains a stellar security record owing to its relatively long stay in the marketplace but also inherits its reputation from its parent companies. First Ledger Corp. is a federally regulated entity, while WonderFi is a publicly-listed tech company on the NEO exchange. 
+
 •	Multi-factor authentication (2FA) – the users also have a role to play in securing their accounts and the best way to do that on Bitbuy is to set up a secure password and enable second-factor authentication using either SMS and/or authenticator apps
 
 Bitbuy maintains an exhaustive section offering support services, including guides, tutorial articles, FAQs, and informative articles on cryptocurrencies. Additionally, the platform shares trading tips on its YouTube channel and other regular tidbits to its followers on social media.
 Here are some of the places where you can get help with Bitbuy:
+
 •	Facebook;
 •	Twitter:
 •	LinkedIn
 •	Instagram:
 •	YouTube;
 •	Support section.
+
 You can also correspond with the Bitbuy customer support staff through the contact form or write an email to support@bitbuy.ca or submit a support ticket through the support section. 
 
-## Bitbuy pros and cons
+## Bitbuy Pros and Cons
 
 Pros
 •	Bitbuy has an intuitive user interface ideal for both beginners and experts;
@@ -180,7 +210,7 @@ Cons
 •	The platform has limited features, only trading and storage are supported so far;
 •	There is no phone or live chat support on the website.
 
-In conclusion, as both a personal and corporate user of Bitbuy for many years now, I highly recommend the platform for all of your crypto trading and hodling requirments. 
+In conclusion, as a Canadian resident and both a personal and corporate user of Bitbuy, I highly recommend the platform for all of your crypto trading and hodling needs. 
 
 
 
